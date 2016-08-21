@@ -4,6 +4,9 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
+use Illuminate\Contracts\Logging\Log;
+use Psr\Log\LoggerInterface;
+
 class AppServiceProvider extends ServiceProvider
 {
     /**
@@ -24,5 +27,8 @@ class AppServiceProvider extends ServiceProvider
     public function register()
     {
          require(app_path('LosOlivos/functions.php'));
+
+        $this->app->alias('bugsnag.logger', Log::class);
+        $this->app->alias('bugsnag.logger', LoggerInterface::class);
     }
 }
