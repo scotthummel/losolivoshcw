@@ -39,7 +39,7 @@
                 <li {{ isActive('specials') }}><a href="/specials">Specials</a></li>
                 <li {{ isActive('location') }}><a href="/location">Location</a></li>
                 <li {{ isActive('detailing') }}><a href="/detailing">Detailing Packages</a></li>
-                <li {{ isActive('/contact') }}><a href="/contact">Contact Us</a></li>
+                <li {{ isActive('contact') }}><a href="/contact">Contact Us</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
