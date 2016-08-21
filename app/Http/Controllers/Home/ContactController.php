@@ -59,7 +59,7 @@ class ContactController extends Controller {
             'email' => 'required|email',
             'comments' => 'required'
         ]);
-	    
+
         $user = [];
         $user['name'] = $request->get('name');
         $user['email'] = $request->get('email');

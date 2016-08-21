@@ -14,7 +14,7 @@ class FlashServiceProvider extends ServiceProvider {
     public function register()
     {
         $this->app->bind('flash', function() {
-           return $this->app->make('LosOlivos\Notifications\FlashNotifier');
+           return $this->app->make('App\LosOlivos\Notifications\FlashNotifier');
         });
     }
 }
