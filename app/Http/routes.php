@@ -1,6 +1,6 @@
 <?php
 
-Route::group(['middleware' => ['web']], function () {
+Route::group(['middlewareGroups' => 'web'], function () {
     Route::resource('/', 'Home\HomeController');
     Route::resource('about', 'Home\AboutController');
     Route::resource('a-la-carte', 'Home\ALaCarteController');
