@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Home;
 use App\Http\Controllers\Controller;
 use App\LosOlivos\Notifications\Flash;
 use App\LosOlivos\Mailers\ContactMailer;
+use Illuminate\Http\Request;
 
 
 class ContactController extends Controller {
@@ -50,7 +51,7 @@ class ContactController extends Controller {
 	 *
 	 * @return Response
 	 */
-	public function store()
+	public function store(Request $request)
 	{
         $user = [];
         $user['name'] = $request->get('name');

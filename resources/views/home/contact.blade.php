@@ -22,28 +22,29 @@
 
                         {{ csrf_field() }}
 
-                    <div class="col-md-6 text">
-                        <div class="form-group">
-                            <label>Name</label>
-                            <input class="form-control" type="text" name="name" id="name" value="{{ old('name') }}" />
+                        <div class="col-md-6 text">
+                            <div class="form-group">
+                                <label>Name</label>
+                                <input class="form-control" type="text" name="name" id="name" value="{{ old('name') }}" />
+                            </div>
+                            <div class="form-group">
+                                <label>Email</label>
+                                <input class="form-control" type="text" name="email" id="email" value="{{ old('email') }}" />
+                            </div>
+                            <div class="form-group">
+                                <label>Phone</label>
+                                <input class="form-control" type="text" name="phone" id="phone" value="{{ old('phone') }}" />
+                            </div>
                         </div>
-                        <div class="form-group">
-                            <label>Email</label>
-                            <input class="form-control" type="text" name="email" id="email" value="{{ old('email') }}" />
-                        </div>
-                        <div class="form-group">
-                            <label>Phone</label>
-                            <input class="form-control" type="text" name="phone" id="phone" value="{{ old('phone') }}" />
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <label>Message:</label>
-                            <textarea class="form-control" id="comments" rows="7" name="comments">{{ old('comments') }}</textarea>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Message:</label>
+                                <textarea class="form-control" id="comments" rows="7" name="comments">{{ old('comments') }}</textarea>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary pull-right">Send Email</button>
                         </div>
 
-                        <button type="submit" class="btn btn-primary pull-right">Send Email</button>
-                    </div>
                     </form>
                 </div>
             </div>
