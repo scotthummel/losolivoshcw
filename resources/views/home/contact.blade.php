@@ -26,10 +26,15 @@
                             <div class="form-group">
                                 <label>Name</label>
                                 <input class="form-control" type="text" name="name" id="name" value="{{ old('name') }}" />
+
+                                <?php echo $errors->first('name', '<p class="error">:message</p>'); ?>
                             </div>
                             <div class="form-group">
                                 <label>Email</label>
                                 <input class="form-control" type="text" name="email" id="email" value="{{ old('email') }}" />
+
+                                <?php echo $errors->first('email', '<p class="error">:message</p>'); ?>
+
                             </div>
                             <div class="form-group">
                                 <label>Phone</label>
@@ -40,6 +45,9 @@
                             <div class="form-group">
                                 <label>Message:</label>
                                 <textarea class="form-control" id="comments" rows="7" name="comments">{{ old('comments') }}</textarea>
+
+                                <?php echo $errors->first('comments', '<p class="error">:message</p>'); ?>
+
                             </div>
 
                             <button type="submit" class="btn btn-primary pull-right">Send Email</button>
