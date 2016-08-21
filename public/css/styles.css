@@ -1,0 +1,152 @@
+body {
+    background-color: #000;
+}
+
+.wrap {
+    margin-top: 60px;
+}
+
+/**
+ * Nav
+ */
+
+.navbar-inverse {
+    background-color: #713493;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+     color: #00BEBB;
+}
+
+/**
+ * Body
+ */
+
+a {
+    color: #713493;
+}
+
+.address p {
+    color: #00BEBB;
+    margin-left: 20px;
+}
+
+
+.get-clean img {
+    margin-top: 40px;
+}
+
+.body {
+    margin-top: 40px;
+}
+
+.panel-default {
+    border-color:  #00BEBB;
+    background-color: #222;
+}
+
+.panel-default > .panel-heading {
+    background-color:  #00BEBB;
+    border-color:  #00BEBB;
+}
+
+.text p, p, label {
+    color: #E9E9E9;
+}
+
+p.error {
+    background-color: #FF0000;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+label {
+    font-weight: normal;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #00BEBB;
+}
+
+ul.pricing {
+    margin-top: -15px;
+}
+
+ul.pricing li {
+    color: #E9E9E9;
+    margin-left: -5px;
+}
+
+ul.pricing.a-la-carte {
+    list-style-type: none;
+    margin-left: -15px;
+}
+
+#map {
+    height: 685px;
+}
+
+.btn-primary {
+    background-color: #00BEBB;
+    color: #333333;
+    border-color:  #00BEBB;;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #713493;
+    border-color: #713493;
+}
+
+.alert {
+    margin-top: 60px;
+}
+
+
+
+/**
+ * Dot leaders
+ */
+
+dl {
+    overflow: hidden;
+}
+dt {
+    float: left;
+    padding: 0 .4em 0 0;
+    margin: 0;
+    color: #E9E9E9;
+    font-weight: normal;
+}
+dd {
+    float: right;
+    padding: 0 0 0 .4em;
+    margin: 0;
+    color: #E9E9E9;
+}
+/* That's the leader! */
+dl:after {
+    content: "";
+    display: block;
+    overflow: hidden;
+    height: 1em;
+    border-bottom: 1px dotted #E9E9E9;
+}
+
+@media (max-width: 768px) {
+    #map {
+        margin: 0 auto 30px auto;
+        max-width: 90%;
+        float: none;
+        height: 300px;
+    }
+}

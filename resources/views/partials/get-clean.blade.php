@@ -1,0 +1,1 @@
+<img src="/images/get_clean.png" class="img-responsive" alt="Get In. Get Clean" />
