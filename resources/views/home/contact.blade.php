@@ -20,6 +20,8 @@
                 <div class="row">
                     <form action="/contact" method="POST">
 
+                        {{ csrf_field() }}
+
                     <div class="col-md-6 text">
                         <div class="form-group">
                             <label>Name</label>
