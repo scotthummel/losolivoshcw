@@ -68,7 +68,7 @@ class ContactController extends Controller {
 
         $this->mailer->contact($user);
 
-        Flash::message('Thank you for contacting us.  We will be in touch shortly.');
+        Flash::success('Thank you for contacting us.  We will be in touch shortly.');
 
         return back();
 	}
