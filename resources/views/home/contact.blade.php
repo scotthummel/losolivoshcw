@@ -20,7 +20,7 @@
                 <div class="row">
                     <form action="/contact" method="POST">
 
-                        {!! csrf_token() !!}
+                        {{ csrf_field() }}
 
                         <div class="col-md-6 text">
                             <div class="form-group">
