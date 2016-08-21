@@ -164,7 +164,7 @@ return [
         App\Providers\RouteServiceProvider::class,
 
         Bugsnag\BugsnagLaravel\BugsnagServiceProvider::class,
-
+        App\LosOlivos\Notifications\FlashServiceProvider::class
     ],
 
     /*
@@ -212,6 +212,7 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
         'Bugsnag' => Bugsnag\BugsnagLaravel\Facades\Bugsnag::class,
+        'Flash' => App\LosOlivos\Notifications\FlashNotifier::class
 
     ],
 
