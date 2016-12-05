@@ -26,11 +26,11 @@
                     </div>
                     <div class="col-md-6 text">
                         <p>Three special price packages are available if you print these coupons out by clicking on the image.</p>
-                        <p>The Complete Detailing package is offered for $139.99, a special only available with this coupon.  You save $20 on an interior detailing, an engine cleaning and an exterior buff. This package is usually valued at $159.00</p>
+                        <p>The Complete Detailing package is offered for $169.99, a special only available with this coupon.  You save $20 on an interior detailing, an engine cleaning and an exterior buff.</p>
 
-                        <p>The Mini Detail is $89.99. You save $10.</p>
+                        <p>The Mini Detail is $129.99. You save $10.</p>
 
-                        <p> The Complete Works at $21.99 saves you $13 and includes: vacuuming, air freshener, complete interior/exterior dressing, spray wax and spray Poly Clear-Coat treatment, and washing the mats.</p>
+                        <p> The Complete Works at $22.99 saves you $13 and includes: vacuuming, air freshener, complete interior/exterior dressing, spray wax and spray Poly Clear-Coat treatment, and washing the mats.</p>
                     </div>
                 </div>
             </div>

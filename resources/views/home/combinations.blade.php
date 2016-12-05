@@ -23,7 +23,7 @@
                     <div class="col-md-6 text">
                         <dl>
                             <dt>The Works</dt>
-                            <dd>$17.99</dd>
+                            <dd>$18.99</dd>
                         </dl>
 
                         <ul class="pricing">
@@ -63,7 +63,7 @@
                     <div class="col-md-6">
                         <dl>
                             <dt>Complete Works</dt>
-                            <dd>$21.99</dd>
+                            <dd>$24.99</dd>
                         </dl>
 
                         <ul class="pricing">
@@ -75,12 +75,11 @@
                             <li>Wheel Brite</li>
                             <lI>Rubber Mats</lI>
                             <li>Vacuum and wipe interior</li>
-                            <li>$26.99 Value (You Save $5.00)</li>
                         </ul>
 
                         <br />
 
-                        <p><em>Prices effective Aug. 1, 2014.  Prices subject to change without notice. Prices may vary due to size and condition of vehicle.</em></p>
+                        <p><em>Prices effective Jan. 1, 2017.  Prices subject to change without notice. Prices may vary due to size and condition of vehicle.</em></p>
 
                         <p><em>Vacuum extra.</em></p>
 

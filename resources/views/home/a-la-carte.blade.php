@@ -21,19 +21,19 @@
                     <div class="col-md-6 text">
                         <dl>
                             <dt>Full service hand car wash</dt>
-                            <dd>$12.99</dd>
+                            <dd>$13.99</dd>
                         </dl>
                         <dl>
                             <dt>Blue Poly-Clear Coat treatment</dt>
-                            <dd>$5.00</dd>
+                            <dd>$6.00</dd>
                         </dl>
                         <dl>
                             <dt>Air freshener</dt>
-                            <dd>$2.00</dd>
+                            <dd>$3.00</dd>
                         </dl>
                         <dl>
                             <dt>Spray wax</dt>
-                            <dd>$5.00</dd>
+                            <dd>$6.00</dd>
                         </dl>
                         <dl>
                             <dt>Polish rims (each)</dt>
@@ -41,7 +41,7 @@
                         </dl>
                         <dl>
                             <dt>Plastic mats cleaned</dt>
-                            <dd>$3.00</dd>
+                            <dd>$4.00</dd>
                         </dl>
                         <dl>
                             <dt>Exterior wash only</dt>
@@ -51,19 +51,19 @@
                     <div class="col-md-6">
                         <dl>
                             <dt>Black Magic tires</dt>
-                            <dd>$3.00</dd>
+                            <dd>$4.00</dd>
                         </dl>
                         <dl>
                             <dt>Black Magic interior</dt>
-                            <dd>$7.00</dd>
+                            <dd>$8.00</dd>
                         </dl>
                         <dl>
                             <dt>Black Magic exterior</dt>
-                            <dd>$6.00</dd>
+                            <dd>$7.00</dd>
                         </dl>
                         <dl>
                             <dt>Black Magic complete</dt>
-                            <dd>$13.00</dd>
+                            <dd>$14.00</dd>
                         </dl>
                         <dl>
                             <dt>Back to Black (Maguiar's Exterior)</dt>
@@ -71,13 +71,13 @@
                         </dl>
                         <dl>
                             <dt>Shampoo mats (4)</dt>
-                            <dd>$7.99</dd>
+                            <dd>$8.99</dd>
                         </dl>
                         <dl>
                             <dt>Cream Pro conditioning</dt>
-                            <dd>$5-$25*</dd>
+                            <dd>$5-$30*</dd>
                         </dl>
-                        <p><em>Prices effective Aug, 1, 2014. Prices may vary due to size or condition of vehicle.</em></p>
+                        <p><em>Prices effective Jan, 1, 2017. Prices may vary due to size or condition of vehicle.</em></p>
 
                         <p><em>*Depends on vehicle size</em></p>
                     </div>

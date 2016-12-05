@@ -58,8 +58,8 @@
                 <p>602.258.2822</p>
 
                 <p>Hours:<br />
-                    Mon-Sat  8:00 am – 5:25 pm<br />
-                    Sunday   9:00 am – 3:00 pm<br />
+                    Mon-Sat:  8:00 am – 5:00 pm<br />
+                    Sunday:  Closed<br />
                 </p>
             </div>
             <div class="col-xs-9 col-sm-9 col-md-9 get-clean">

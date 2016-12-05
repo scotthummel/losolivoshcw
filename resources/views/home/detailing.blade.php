@@ -18,7 +18,7 @@
                 <div class="col-md-4">
                     <dl>
                         <dt>Complete Detailing</dt>
-                        <dd>$159.99</dd>
+                        <dd>$189.99</dd>
                     </dl>
 
                     <ul class="pricing">
@@ -36,7 +36,7 @@
                         <li>Apply protective dressing to engine compartment</li>
                     </ul>
 
-                    <p><em>Prices effective Sept. 1, 2014.  Prices subject to change without notice.  Prices may vary due to size and condition of vehicle.</em></p>
+                    <p><em>Prices effective Jan. 1, 2017.  Prices subject to change without notice.  Prices may vary due to size and condition of vehicle.</em></p>
 
                     <p><em>Oxidation, water spots, overspray extra.</em></p>
 
@@ -46,7 +46,7 @@
                 <div class="col-md-4">
                     <dl>
                         <dt>Interior Detailing</dt>
-                        <dd>$85.00</dd>
+                        <dd>$95.00</dd>
                     </dl>
 
                     <ul class="pricing">
@@ -63,7 +63,7 @@
 
                     <dl>
                         <dt>Exterior Detail</dt>
-                        <dd>$100.00</dd>
+                        <dd>$129.99</dd>
                     </dl>
 
                     <ul class="pricing">
@@ -84,37 +84,37 @@
                         <li>
                             <dl>
                                 <dt>Steam clean engine</dt>
-                                <dd>$39.99</dd>
+                                <dd>$49.99</dd>
                             </dl>
                         </li>
                         <li>
                             <dl>
                                 <dt>Shampoo seats</dt>
-                                <dd>$29.99</dd>
+                                <dd>$39.99</dd>
                             </dl>
                         </li>
                         <li>
                             <dl>
                                 <dt>Clean/condition leather seats</dt>
-                                <dd>$29.99</dd>
+                                <dd>$39.99</dd>
                             </dl>
                         </li>
                         <li>
                             <dl>
                                 <dt>Shampoo carpets</dt>
-                                <dd>$29.99</dd>
+                                <dd>$39.99</dd>
                             </dl>
                         </li>
                         <li>
                             <dl>
                                 <dt>Shampoo mats (all four) </dt>
-                                <dd>$7.99</dd>
+                                <dd>$8.99</dd>
                             </dl>
                         </li>
                         <li>
                             <dl>
                                 <dt>Clean and dress vinyl top</dt>
-                                <dd>$29.99</dd>
+                                <dd>$39.99</dd>
                             </dl>
                         </li>
                         <li>
@@ -132,13 +132,13 @@
                         <li>
                             <dl>
                                 <dt>Creme Pro (interior) </dt>
-                                <dd>$25.00</dd>
+                                <dd>$30.00</dd>
                             </dl>
                         </li>
                         <li>
 														<dl>
 																<dt>Basic Motorcycle</dt>
-																<dd>Starts at $25</dd>
+																<dd>Starts at $30</dd>
 														</dl>
 														<dl>
 																<dt>Motorcycle Detailing</dt>
