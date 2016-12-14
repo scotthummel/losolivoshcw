@@ -72,7 +72,7 @@
                             <li>Spray wax</li>
                             <li>Freshener</li>
                             <li>Black Magic Complete</li>
-                            <li>Wheel Brite</li>
+                            <!--<li>Wheel Brite</li>-->
                             <lI>Rubber Mats</lI>
                             <li>Vacuum and wipe interior</li>
                         </ul>
