@@ -22,7 +22,7 @@
             <div class="panel-body">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="/images/coupons.jpg" class="img-responsive coupons" alt="coupons" />
+                        <img src="/images/coupons.jpg?t={{ microtime() }}" class="img-responsive coupons" alt="coupons" />
                     </div>
                     <div class="col-md-6 text">
                         <p>Three special price packages are available if you print these coupons out by clicking on the image.</p>
